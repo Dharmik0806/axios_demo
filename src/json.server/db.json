@@ -1,0 +1,29 @@
+{
+  "KidEra": [
+    {
+      "name": "ssss",
+      "price": 333,
+      "id": 2
+    },
+    {
+      "name": "aswdasd",
+      "price": 123,
+      "id": 3
+    },
+    {
+      "name": "asd",
+      "price": 2,
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
